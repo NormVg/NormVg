@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NormVg
 - 👀 I’m interested in Game Dev, Software Dev and Hacking Tools
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on Artificial Assistant 
 - 📫 How to reach me thenormvg@gmail.com
 
