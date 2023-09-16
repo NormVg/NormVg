@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on Artificial Assistant 
 - 📫 How to reach me thenormvg@gmail.com
+
+
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NormVg)](https://git.io/streak-stats)
 <!---
 NormVg/NormVg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
