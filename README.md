@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @NormVg
 - 👀 I’m interested in Game Dev, Software Dev and Hacking Tools
-- 🌱 I’m currently learning javascript 
+- 🌱 I’m currently learning Rust and TypeScript  
 - 💞️ I’m looking to collaborate on Artificial Assistant 
 - 📫 How to reach me thenormvg@gmail.com
-
+- Founder of @TheAlphaOnes , a skill based Development Team 
 
 
 
