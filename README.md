@@ -19,8 +19,8 @@
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NormVg&show_icons=true&theme=dracula)
 <!---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NormVg&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NormVg&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  [![GitHub Streak](https://streak-stats.demolab.com?user=NormVg&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 NormVg/NormVg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
