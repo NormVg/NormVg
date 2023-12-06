@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust, Go and TypeScript  
 - 💞️ I’m looking to collaborate on Artificial Assistant 
 - 📫 How to reach me thenormvg@gmail.com
-- Founder of @TheAlphaOnes , a skill based Development Team 
+- Founder of <a href="https://thealphaones.vercel.app">@TheAlphaOnes</a> , a skill based Development Team 
 
 <p align="center">
   <a href="https://github.com/antoinekllee">
