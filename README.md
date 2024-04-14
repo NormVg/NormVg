@@ -1,28 +1,13 @@
-- 👋 Hi, I’m @NormVg
-- 👀 I’m interested in Game Dev, Software Dev and Hacking Tools
-- 🌱 I’m currently learning Rust, Go and TypeScript  
-- 💞️ I’m looking to collaborate on Artificial Assistant 
-- 📫 How to reach me thenormvg@gmail.com
-- Founder of <a href="https://thealphaones.vercel.app">@TheAlphaOnes</a> , a skill based Development Team 
+## Hey there! I'm Vishnu Gupta, also known as NormVg.
 
-<p align="center">
-  <a href="https://github.com/antoinekllee">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NormVg&show_icons=true&theme=dracula&include_all_commits" />
-  </a>
-  <a href="https://github.com/antoinekllee">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NormVg&theme=dracula" /> 
-  </a>
-</p>
-<p align="center">
-    <a href="https://github.com/antoinekllee">
-    <img height="165em" src="https://streak-stats.demolab.com?user=NormVg&theme=dracula&card_width=550" />
-  </a>
-</p>
+- 🖥️ Full-stack developer and AI enthusiast
+- 🚀 CEO & Founder of [TheAlphaOnes](https://thealphaones.com/) where we build "Crazy Shit"
+- 🔥 Leading the [TAO Community of Crack Head's](https://discord.com/invite/nbrFDHmsK3) – all about 'building in public'
+- 🏆 Hackathon lover and recent winner
+- 🎤 Hip-hop aficionado and occasional lyricist
+- 👨‍🍳 Cooking enthusiast and movie buff
 
-<!---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NormVg&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NormVg&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
- [![GitHub Streak](https://streak-stats.demolab.com?user=NormVg&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-NormVg/NormVg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Let's chat!**  
+Slide into my [DMs](https://discordapp.com/users/943907992145911818) for a personal meet-up or podcast – I promise not to steal the show... too much!
+
+Let's connect and create some magic! ✨
