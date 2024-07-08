@@ -9,7 +9,9 @@
 
 **Let's chat!**  
 Slide into my [DMs](https://discordapp.com/users/943907992145911818) for a personal meet-up or podcast – I promise not to steal the show... too much!
+
 [Youtube](https://www.youtube.com/channel/UCsinLbU3PsEULfRTSKsKQUg)
+
 Portfolio - [vishnu.thealphaones.com](https://vishnu.thealphaones.com)
 
 Let's connect and create some magic! ✨
