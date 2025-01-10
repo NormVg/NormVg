@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>    🖥️ Full-stack developer and AI enthusiast<br>    🚀 Building of TheAlphaOnes where we build "Crazy Stuff"<br>    🔥 Leading the TAO Community of Crack Head's – all about 'building in public'<br>    🏆 Hackathon lover and recent winner<br>    🎤 Hip-hop enthusiast and occasional lyricist<br>    👨‍🍳 Cooking enthusiast and movie buff<br>
+<br>    🖥️ Full-stack developer and AI enthusiast<br>    🚀 Building of TheAlphaOnes where we build "Crazy Stuff"<br>    🔥 Leading the TAO Community of Crack Head's – all about 'building in public'<br>    🏆 Winner and also Judge Hackathon <br>    🎤 Hip-hop enthusiast and occasional lyricist<br>    👨‍🍳 Cooking enthusiast and movie buff<br>
 
 
 ## 🌐 Socials:
