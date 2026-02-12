@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ Full-stack developer and AI enthusiast<br>🚀 Building of TheAlphaOnes where we build "Crazy Stuff"<br>🔥 Leading the TAO Community of Crack Head's – all about 'building in public'<br>🏆 Winner and also Judge Hackathon<br>🎤 Hip-hop enthusiast and occasional lyricist<br>👨‍🍳 Cooking enthusiast and movie buff
+i code 25 hours a day | Founder and CEO TheAlphaOnes | Father of unborn Tech | have backpain | eat Ramen 🍜 for energy | get creative in dreams and wake up afraid of them 
 
 
 ## 🌐 Socials:
