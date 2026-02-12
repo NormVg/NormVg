@@ -1,10 +1,12 @@
 # 💫 About Me:
-i code 25 hours a day
-Founder and CEO TheAlphaOnes
-Father of unborn Tech
-have backpain
-eat Ramen 🍜 for energy
-get creative in dreams and wake up afraid of them 
+
+💻 I code 25 hours a day
+🚀 Founder & CEO of TheAlphaOnes
+🧠 Father of unborn tech
+😅 Living with back pain
+🍜 Powered by ramen
+🌙 Dream up wild ideas… then wake up slightly terrified of them
+
 
 
 ## 🌐 Socials:
