@@ -1,3 +1,4 @@
+```
 # 💫 About Me:
 
 💻 I code 25 hours a day  
@@ -6,7 +7,7 @@
 😅 Living with back pain  
 🍜 Powered by ramen  
 🌙 Dream up wild ideas… then wake up slightly terrified of them  
-
+```
 
 
 
